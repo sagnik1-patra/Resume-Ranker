@@ -1,0 +1,17 @@
+created_utc: 2025-08-16_19-40-09
+base_dir: C:\Users\sagni\Downloads\Resume Ranker
+pdf_dir: C:\Users\sagni\Downloads\Resume Ranker\archive (1)\data\data
+csv_path: C:\Users\sagni\Downloads\Resume Ranker\archive (1)\Resume\Resume.csv
+artifacts:
+  vectorizer_pkl: C:\Users\sagni\Downloads\Resume Ranker\vectorizer.pkl
+  embeddings_h5: C:\Users\sagni\Downloads\Resume Ranker\resume_embeddings.h5
+  rankings_json: C:\Users\sagni\Downloads\Resume Ranker\rankings.json
+  rankings_csv: C:\Users\sagni\Downloads\Resume Ranker\rankings.csv
+tfidf:
+  max_features: 50000
+  ngram_range:
+  - 1
+  - 2
+  stop_words: english
+jd_preview: Looking for an ML/Data Scientist with strong Python, NLP, TensorFlow or
+  PyTorch, Docker/Kubernetes, and cloud (AWS/GCP/Azure). Experience with MLOps a plus.

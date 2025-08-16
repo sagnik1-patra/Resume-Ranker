@@ -1,0 +1,162 @@
+[
+  {
+    "rank": 1,
+    "score": 0.1030242714535129,
+    "name": "20824105",
+    "id": "file_2080",
+    "source": "pdf",
+    "top_skills": "aws, bash, c, linux, python"
+  },
+  {
+    "rank": 2,
+    "score": 0.1030242714535129,
+    "name": "csv_resume_298",
+    "id": "csv_298",
+    "source": "csv",
+    "top_skills": "aws, bash, c, linux, python"
+  },
+  {
+    "rank": 3,
+    "score": 0.09572729641103567,
+    "name": "21297521",
+    "id": "file_694",
+    "source": "pdf",
+    "top_skills": "aws, azure, c, c#, c++, computer vision, deep learning, docker, git, go, html, java, javascript, jenkins, jira"
+  },
+  {
+    "rank": 4,
+    "score": 0.09572729641103567,
+    "name": "csv_resume_2199",
+    "id": "csv_2199",
+    "source": "csv",
+    "top_skills": "aws, azure, c, c#, c++, computer vision, deep learning, docker, git, go, html, java, javascript, jenkins, jira"
+  },
+  {
+    "rank": 5,
+    "score": 0.07994799216690826,
+    "name": "csv_resume_1737",
+    "id": "csv_1737",
+    "source": "csv",
+    "top_skills": "c, node"
+  },
+  {
+    "rank": 6,
+    "score": 0.07970857416288532,
+    "name": "55595908",
+    "id": "file_1557",
+    "source": "pdf",
+    "top_skills": "c, node"
+  },
+  {
+    "rank": 7,
+    "score": 0.0742734110260204,
+    "name": "csv_resume_929",
+    "id": "csv_929",
+    "source": "csv",
+    "top_skills": "aws, c, go, java, jira, pandas, python, redshift, rust, sql"
+  },
+  {
+    "rank": 8,
+    "score": 0.07423377906467878,
+    "name": "csv_resume_926",
+    "id": "csv_926",
+    "source": "csv",
+    "top_skills": "bert, c, c#, css, flask, go, html, java, javascript, keras, matlab, node, pandas, python, react"
+  },
+  {
+    "rank": 9,
+    "score": 0.07423377906467878,
+    "name": "62994611",
+    "id": "file_291",
+    "source": "pdf",
+    "top_skills": "bert, c, c#, css, flask, go, html, java, javascript, keras, matlab, node, pandas, python, react"
+  },
+  {
+    "rank": 10,
+    "score": 0.07396709363067795,
+    "name": "11813872",
+    "id": "file_239",
+    "source": "pdf",
+    "top_skills": "aws, c, go, java, jira, pandas, python, redshift, rust, sql"
+  },
+  {
+    "rank": 11,
+    "score": 0.06848421122372637,
+    "name": "csv_resume_331",
+    "id": "csv_331",
+    "source": "csv",
+    "top_skills": "aws, azure, c, css, go, html, linux, python, rust, scala, sql, tableau"
+  },
+  {
+    "rank": 12,
+    "score": 0.06827513826393392,
+    "name": "18067556",
+    "id": "file_2066",
+    "source": "pdf",
+    "top_skills": "aws, azure, c, css, go, html, linux, python, rust, scala, sql, tableau"
+  },
+  {
+    "rank": 13,
+    "score": 0.06814565367577119,
+    "name": "21156767",
+    "id": "file_1176",
+    "source": "pdf",
+    "top_skills": "azure, c, c#, go, java, javascript, machine learning, python, sql"
+  },
+  {
+    "rank": 14,
+    "score": 0.06749933997598968,
+    "name": "csv_resume_1218",
+    "id": "csv_1218",
+    "source": "csv",
+    "top_skills": "azure, c, c#, go, java, javascript, machine learning, python, sql"
+  },
+  {
+    "rank": 15,
+    "score": 0.054122146628946016,
+    "name": "csv_resume_1339",
+    "id": "csv_1339",
+    "source": "csv",
+    "top_skills": "c, go, matlab, numpy, pandas, python, spark, sql, tableau"
+  },
+  {
+    "rank": 16,
+    "score": 0.05402164239514454,
+    "name": "18448085",
+    "id": "file_512",
+    "source": "pdf",
+    "top_skills": "c, go, matlab, numpy, pandas, python, spark, sql, tableau"
+  },
+  {
+    "rank": 17,
+    "score": 0.04736976225412322,
+    "name": "csv_resume_1234",
+    "id": "csv_1234",
+    "source": "csv",
+    "top_skills": "aws, azure, c, go, sql"
+  },
+  {
+    "rank": 18,
+    "score": 0.04726519874413569,
+    "name": "11005406",
+    "id": "file_1362",
+    "source": "pdf",
+    "top_skills": "aws, azure, c, go, sql"
+  },
+  {
+    "rank": 19,
+    "score": 0.046527607783868136,
+    "name": "csv_resume_942",
+    "id": "csv_942",
+    "source": "csv",
+    "top_skills": "c, c++"
+  },
+  {
+    "rank": 20,
+    "score": 0.04626346488560134,
+    "name": "81042872",
+    "id": "file_296",
+    "source": "pdf",
+    "top_skills": "c, c++"
+  }
+]
